@@ -1,0 +1,29 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.loginPage{
+    background:url('public/images/hrms.jpg');
+    background: linear-gradient(rgba(11,11,11,0.5), rgba(10, 10, 10, 0.5),url('public/images/hrms.jpg'));
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 120%;
+}
+
+.loginForm{
+    background-color:rgba(1,32, 93,0.8 );
+    color:white;
+}
+
+.hover-bg:hover {
+    background-color: #495057 !important;
+    border-radius: 5px;
+  }
+  
+.employee_img{
+    width:40px;
+    height:40px;
+    border-radius:50%;
+}
